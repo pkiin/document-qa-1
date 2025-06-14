@@ -1,2 +1,8 @@
 streamlit
 openai
+langchain
+langchain-community
+pypdf
+faiss-cpu
+PyPDF2
+tiktoken
